@@ -1,2 +1,3 @@
 # calculator-app
-A fully function calculator built with JavaScript.
+
+A WIP calculator built with pure HTML, CSS and JavaScript.
